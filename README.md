@@ -9,3 +9,6 @@ WARNING: No Code which you should use!
 ## 1. Try ist better than ...
 
 So how do we do that?
+
+git clone https://github.com/macloy/p001-test.git
+
