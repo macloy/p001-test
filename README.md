@@ -4,7 +4,7 @@ Testarea for playing with git, gist and git pages.
 
 WARNING: No Code which you should use!
 
-# Why p001-test??
+# Why p001-test?
 
 ## 1. Try ist better than ...
 
